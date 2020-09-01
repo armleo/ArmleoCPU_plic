@@ -1,0 +1,7 @@
+*.dmp
+*.log
+*.csrc
+*.vcd
+*.netlist
+obj_*
+logs
