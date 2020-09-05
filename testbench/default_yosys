@@ -1,0 +1,11 @@
+# mapping to internal cell library
+proc; opt; fsm; opt; memory; opt
+
+# mapping logic to cells
+synth
+
+# cleanup
+clean
+
+# write synthesized design
+write_verilog synth.v

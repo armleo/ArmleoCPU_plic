@@ -41,5 +41,6 @@ execute: build
 
 	@echo
 	@echo "Complete"
-clean:
+clean.verilator:
 	rm -rf *.log logs *.vcd obj_dir
+clean: clean.verilator
