@@ -1,0 +1,3 @@
+[submodule "submodules/AXI4LiteToSimpleConverter"]
+	path = submodules/AXI4LiteToSimpleConverter
+	url = https://github.com/armleo/AXI4LiteToSimpleConverter.git
