@@ -1,3 +1,6 @@
+# Deprecated
+This repository is deprecated and outdated. This is now part of ArmleoCPU project, See https://github.com/armleo/ArmleoCPU/ for new versions.
+
 # ArmleoCPU_plic
 
 RISC-V PLIC implementation. Implements AXI4-Lite interface.
